@@ -4,17 +4,17 @@ subtitle: A quick & dirty website to fully test our support service and its widg
 layout: layouts/base.njk
 ---
 
-## This site is a starting point, but also the end =(
+## This site is a starting point, but also the end 😥
 
 From this point we should already have:
 
 - A blue background
 - Some white dots
 - Some Lorem Ipsum
-- A message of love to the [Trakx](https://trakx.io/) team
+- A message of love to the [Trakx](https://trakx.io/) team 🚀
 - A superb (or not so superb) widget
 
-## Additional lovely links, carefully selected <3
+## Additional lovely links, carefully selected ❤️
 
 - [Trakx](https://trakx.io/), leading provider of digital asset indices
 - [Trakx Twitter](https://twitter.com/Trakx_io), because we love birds
