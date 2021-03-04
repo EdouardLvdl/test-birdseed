@@ -6,7 +6,7 @@ layout: layouts/base.njk
 
 ## Reach out to Ed 💌
 
-Probably too many options in order to get in touch:
+I mostly reply via Twitter and Telegram:
 
 - [Twitter](https://twitter.com/EdouardL)
 - [Telegram](https://t.me/edouardlvdl)
@@ -17,7 +17,7 @@ Probably too many options in order to get in touch:
 
 <br/>
 
-- [Stakin](https://stakin.com) provides staking-as-service for Proof-of-Stake blockchains. The company operates a highly secure infrastructure in order to validate blocks on leading PoS networks with 99.9%+ uptime. This enables delegators to earn rewards on their holdings, and take part in decentralized governance. Staking services are offered for more than 15 networks, including Tezos, Cosmos, Icon, Solana, Near, Polkadot, Skale, Terra Money, and more. The company boasts 4,000+ delegators and \$30m+ assets under delegation. More recently, Stakin has started developing decentralized finance applications, such as the first staking lossless lottery available at [lottery.stakin.com](https://lottery.stakin.com), running on the ICON blockchain.  
+- [Stakin](https://stakin.com) provides staking-as-service for Proof-of-Stake blockchains. The company operates a highly secure infrastructure in order to validate blocks on leading PoS networks with 99.9%+ uptime. This enables delegators to earn rewards on their holdings, and take part in decentralized governance. Staking services are offered for more than 16 networks, including Tezos, Cosmos, Icon, Solana, Near, Polkadot, Skale, Terra Money, Regen and more. The company boasts 4,500+ delegators and \$100m+ assets under delegation. More recently, Stakin has started developing decentralized finance applications, such as the first staking lossless lottery available at [lottery.stakin.com](https://lottery.stakin.com), running on the ICON blockchain. Another project in the works is [Stakin Finance](https://finance.stakin.com), an Automated Market Maker and Yield Farming platform.
   <br/>
 - [Trakx](https://trakx.io/) provides institutional-grade compliant Crypto Traded Indices. Crypto Traded Indices are instruments that facilitates investing into digital assets, offering instant diversification and exposure to sophisticated strategies. The company combines indexing techniques that have been tried and tested in traditional asset classes with concepts unique to blockchain such as smart contracts and on-chain rebalancing, furthering the adoption of digital assets. More than 10 CTIs are already available to trade on the platform: long thematic baskets such as Lending or DeFi index, and more sophisticated Volatility products. Trakx is backed by ConsenSys, the leading blockchain software technology company.
 
@@ -29,5 +29,6 @@ Mostly technology and finance
 - Blockchain
 - Digital Assets
 - Cloud Computing
+- Doges
 - Artificial Intelligence
 - Gaming
