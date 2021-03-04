@@ -24,8 +24,6 @@ I mostly reply via Twitter and Telegram:
 
 ## Key interests 😄
 
-Mostly technology and finance
-
 - Fintech
 - Blockchain
 - Digital Assets
