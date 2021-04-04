@@ -1,5 +1,5 @@
 ---
-title: "Edouard Lavidalle: Website"
+title: "Edouard Lavidalle"
 description: Edouard Lavidalle is an Entrepreneur at <a href="https://stakin.com">Stakin.com</a> and <a href="https://trakx.io/">Trakx.io</a>.
 subtitle: Edouard Lavidalle is an Entrepreneur at <a href="https://stakin.com">Stakin.com</a> and <a href="https://trakx.io/">Trakx.io</a>.
 layout: layouts/base.njk
