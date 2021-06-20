@@ -22,7 +22,7 @@ I mostly reply via Twitter and Telegram:
   <br/>
   <br/>
 
-## Other projects I'm involved with or advises 👋
+## Other projects I'm involved with or advise 👋
 
 - [Trakx](https://trakx.io/): institutional-grade compliant blockchain indices and trackers
 - [Beaver Writer](https://beaverwriter.com/): fintech content marketing services
